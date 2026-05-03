@@ -1,2 +1,2 @@
 # Food-Ordering-project-
-frontend food ordering service
+Frontend food ordering service, a school project to show our front-end skills. 
